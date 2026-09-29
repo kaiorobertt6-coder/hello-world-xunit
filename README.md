@@ -1,6 +1,6 @@
 # Hello World xUnit
 
-Projeto desenvolvido para a disciplina **Gestão e Qualidade de Software**, com o objetivo de praticar a criação de uma solução .NET, implementação de código de produção, testes unitários com xUnit e versionamento utilizando Git e GitHub.
+Projeto desenvolvido para a disciplina **Garantia e Qualidade de Software**, com o objetivo de praticar a criação de uma solução .NET, implementação de código de produção, testes unitários com xUnit e versionamento utilizando Git e GitHub.
 
 ## 🎯 Objetivo
 
@@ -134,4 +134,4 @@ dotnet add MeuPrimeiroTeste.Tests/MeuPrimeiroTeste.Tests.csproj reference MeuPri
 
 **Icaro Ferreira - 325111358**
 
-Projeto acadêmico desenvolvido para a disciplina de **Gestão e Qualidade de Software**.
+Projeto acadêmico desenvolvido para a disciplina de **Garantia e Qualidade de Software**.
